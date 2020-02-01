@@ -1,0 +1,6 @@
+framework module PodImagesUI {
+  umbrella header "PodImagesUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

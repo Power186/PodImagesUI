@@ -1,0 +1,16 @@
+PODS:
+  - PodImagesUI (0.1.0)
+
+DEPENDENCIES:
+  - PodImagesUI (from `../`)
+
+EXTERNAL SOURCES:
+  PodImagesUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodImagesUI: d20170b33980bd7f5a9250d0f1b55a973cd170da
+
+PODFILE CHECKSUM: a4415d53eab7df1081a932860965558841aa3cfc
+
+COCOAPODS: 1.8.4

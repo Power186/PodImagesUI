@@ -1,0 +1,22 @@
+{
+  "name": "PodImagesUI",
+  "version": "0.1.0",
+  "summary": "A short description of PodImagesUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Power186/PodImagesUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Power186": "agentwinburn1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Power186/PodImagesUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodImagesUI/Classes/**/*"
+}
