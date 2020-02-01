@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PodImagesUI_Example' do
+  pod 'PodImagesUI', :path => '../'
+
+  target 'PodImagesUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
